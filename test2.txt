@@ -1,0 +1,7 @@
+5
+Piggy p 8
+Slender d 2
+Dumpy b 5
+Willowy d 3
+Fow b 5
+9
